@@ -1,0 +1,141 @@
+https://arclight-site-files.netlify.app/osamamarketing.zip
+osamasmmexpert/
+│
+├── index.html
+├── style.css
+└── images/
+    └── banner.jpg (any banner image)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Osama SMM Expert</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Osama SMM Expert</h1>
+    <p>Grow your business with expert digital marketing services</p>
+    <a href="#contact" class="btn">Get Free Consultation</a>
+  </header>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li><strong>Social Media Marketing</strong> – Grow your reach</li>
+      <li><strong>Google Ads</strong> – Targeted advertising</li>
+      <li><strong>SEO Optimization</strong> – Rank higher on Google</li>
+    </ul>
+  </section>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I’m Osama, a digital marketing expert helping businesses scale through strategic social media and paid campaigns. Let’s build your online presence.</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:osamamarketing@gmail.com">osamamarketing@gmail.com</a></p>
+    <p>WhatsApp: <a href="https://wa.me/92 308 2912627">+92 308 2912627</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Osama SMM Expert. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f9fa;
+  color: #333;
+}
+
+header {
+  background: url("images/banner.jpg") center/cover no-repeat;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+header h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+header .btn {
+  display: inline-block;
+  background: #007bff;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 15px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.services ul {
+  list-style: square;
+  padding-left: 20px;
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f9fa;
+  color: #333;
+}
+
+header {
+  background: url("images/banner.jpg") center/cover no-repeat;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+header h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+header .btn {
+  display: inline-block;
+  background: #007bff;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 15px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.services ul {
+  list-style: square;
+  padding-left: 20px;
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
